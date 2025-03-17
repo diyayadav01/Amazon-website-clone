@@ -239,7 +239,6 @@ ul a{
 }
 .logo{
     background-size:cover ;
-    background-image: url(amazon_logo.webp);
     height:50px;
     width:100px;
     padding-bottom:4tpx; 
